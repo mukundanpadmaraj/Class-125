@@ -1,0 +1,29 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    box-shadow: 0px 5px 5px grey;
+    font-size: 25px;
+}
+.note{
+    font-size: 15px;
+    color: red;
+}
+#size_of_square{
+    color: gold;
+    font-size: 20px;
+}
+.copyright-footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    color: white;
+    text-shadow: 2px 2px 5px white;
+    text-align: center;
+    line-height: 3;
+    font-size: larger;
+    font-family:'Times New Roman', Times, serif;
+}
+video, canvas{
+    border: 10px ridge slategrey;
+    box-shadow: 0px 0px 50px grey;
+}
